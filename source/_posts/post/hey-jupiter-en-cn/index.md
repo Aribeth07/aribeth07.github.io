@@ -17,13 +17,13 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]No one’s picking up the phone  
-Guess it’s me and me   
+No one’s picking up the phone  
+Guess it’s me and me
 And this little masochist  
 She’s ready to confess all the things  
 that I never thought that she could feel
 
-Hey Jupiter  
+Hey Jupiter 
 Nothing’s been the same  
 So are you gay. Are you blue  
 Thought we both could use a friend to run to  
@@ -71,9 +71,9 @@ Hey Jupiter
 Nothing’s been the same  
 So are you safe. Now we’re through  
 Thought we both could use a friend to run to  
-Hey Jupiter\[/one\_half\]
+Hey Jupiter
 
-\[one\_half\]没人接起电话  
+没人接起电话  
 这应该是我，是我和我的  
 一点自虐倾向  
 她已准备好告解，告解一切  
@@ -127,9 +127,9 @@ Hey Jupiter\[/one\_half\]
 没有什么是一成不变的  
 那么你安全吗，我们走过来了  
 原以为我们可以相互投奔  
-嗨，木星\[/one\_half\]
+嗨，木星
 
-Hey Jupiter, _Tori Amos, Boys for Pele, 1996_
+Hey Jupiter, *Tori Amos, Boys for Pele, 1996*
 
 歌曲信息：
 

@@ -16,8 +16,6 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]
-
 Excuse me, but can I be you for a while?  
 My dog won't bite if you sit real still  
 I got the antichrist in the kitchen yelling at me again  
@@ -78,10 +76,6 @@ Silent all these years
 Silent all these  
 Silent all these years
 
-\[/one\_half\]
-
-\[one\_half\]
-
 请问我能回到过去吗  
 你坐着不动，我的狗就不咬你  
 那个反基督者又在厨房朝我叫喊  
@@ -103,7 +97,7 @@ Silent all these years
 这个思想深不深邃？  
 我的叫喊声在纸杯里散失  
 你认为叫喊声会在某个天堂里消失  
-我身上有25块钱和一块饼干，你觉得  
+我身上有 25 块钱和一块饼干，你觉得  
 够不够带我们去到那个天堂？
 
 如果我是只人鱼，穿着他的  
@@ -142,9 +136,7 @@ Silent all these years
 这些，年的  
 这些年的沉默
 
-\[/one\_half\]
-
-Silent All These Years, _Tori Amos, Little Earthquakes, 1992_
+Silent All These Years, *Tori Amos, Little Earthquakes, 1992*
 
 歌曲信息：
 
@@ -153,4 +145,3 @@ Tori Amos 参与的乐队“Y Kant Tori Read”失败后，她写下了这首曲
 
 - 在厨房叫喊的反基督者指的是 Tori Amos 的信教的祖母，她反对 Tori Amos 参与乐队，称她做的音乐是罪恶，是垃圾。
 - Tori Amos 宣称她听到了自己的声音，意味着她能发声，她能够表达自己，不再是被夺去了声音的人鱼。她用这首歌，这张专辑，向所有不理解她的人以及因为乐队失败而质疑她的人证明自己。
-- 她表达了女性在其他歌曲中被不当描述的不满。她在荷兰周刊 Nieuwe Revu 的采访中说道：“在大多数人的歌曲中，男性总是强势方、女性永远不会有经期、强奸永远不存在、关于高潮是阴道高潮还是假装高潮等等。它们是芭比娃娃歌曲，没有阴毛的歌曲，生殖器官遮遮掩掩的歌曲，不符合解剖学的歌曲。我的歌来自我的子宫，而不是来自内心。你知道，这么多歌曲描写性交，却没有人意外怀孕。于是我唱道：'你最好祈祷我月经快点来。‘ ”

@@ -17,7 +17,7 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]Oh maybe, maybe it's the clothes we wear  
+Oh maybe, maybe it's the clothes we wear  
 The tasteless bracelets and the dye in our hair  
 Maybe it's our kookiness  
 Or maybe, maybe it's our nowhere towns  
@@ -43,9 +43,9 @@ We're the litter on the breeze
 We're the lovers on the streets  
 Just trash, me and you  
 It's in everything we do  
-It's in everything we do\[/one\_half\]
+It's in everything we do
 
-\[one\_half\]也许也许，是因为我们的衣着  
+也许也许，是因为我们的衣着  
 是因为没有品味的手链和头发的染色  
 也许是因为我们的怪模样  
 也许也许，是因为我们住在这个偏僻小镇  
@@ -71,9 +71,9 @@ It's in everything we do\[/one\_half\]
 我们是街头的情侣  
 就是垃圾，我和你  
 我们做的一切  
-我们做的一切都能看出\[/one\_half\]
+我们做的一切都能看出
 
-Trash, _Suede, Coming Up, 1996_
+Trash, *Suede, Coming Up, 1996*
 
 歌曲信息：
 

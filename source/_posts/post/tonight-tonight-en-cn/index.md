@@ -18,8 +18,6 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]
-
 Time is never time at all  
 You can never ever leave  
 without leaving a piece of youth  
@@ -52,10 +50,6 @@ The indescribable moments of your life tonight
 The impossible is possible tonight  
 Believe in me as I believe in you  
 tonight
-
-\[/one\_half\]
-
-\[one\_half\]
 
 时间不再是时间  
 想要离开  
@@ -90,9 +84,7 @@ tonight
 相信我，如同我相信你一样  
 今晚
 
-\[/one\_half\]
-
-Tonight, Tonight, _The Smashing Pumpkins, Mellon Collie and the Infinite Sadness, 1995_
+Tonight, Tonight, *The Smashing Pumpkins, Mellon Collie and the Infinite Sadness, 1995*
 
 歌曲信息：
 

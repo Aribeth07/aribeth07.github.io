@@ -17,7 +17,6 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]  
 I jumped in the river and what did I see?  
 Black-eyed angels swam with me  
 A moon full of stars and astral cars  
@@ -35,11 +34,7 @@ All my lovers were there with me
 All my past and futures  
 And we all went to heaven in a little row boat  
 There was nothing to fear and nothing to doubt  
-There was nothing to fear and nothing to doubt  
-There was nothing to fear and nothing to doubt  
-\[/one\_half\]
 
-\[one\_half\]  
 我跳进了河里，看到了什么？  
 黑眼睛的天使跟我一起游泳  
 一颗布满恒星和星际汽车的月亮  
@@ -57,11 +52,8 @@ There was nothing to fear and nothing to doubt
 以及我的一切过去和将来  
 然后我们划着小船去往天堂  
 不再有恐惧，不再有怀疑  
-不再有恐惧，不再有怀疑  
-不再有恐惧，不再有怀疑  
-\[/one\_half\]
 
-Pyramid Song, _Radiohead, Amnesiac, 2001_
+Pyramid Song, *Radiohead, Amnesiac, 2001*
 
 歌曲信息：
 

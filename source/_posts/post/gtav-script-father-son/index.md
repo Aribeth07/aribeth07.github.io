@@ -21,59 +21,23 @@ tags:
 M is for Michael De Santa  
 F is for Franklin Clinton
 
-_（Michael 走进家里，听到妻子 Amanda 和女儿 Tracey 吵架）_
+*（Michael 走进家里，听到妻子 Amanda 和女儿 Tracey 吵架）*
 
-**Tracey De Santa**: 你他妈太独裁！你说说为毛不行？
+*（中略）*
 
-**Amanda De Santa**: 不准他在家过夜！他是个流浪汉！
+*（Michael 戴上耳机堵住争吵声）*
 
-**Tracey De Santa**: 我的天啊！
+**妻**: 我要把你爸叫来教训你一顿。
 
-**Amanda De Santa**: 我甚至都不知道你跟他什么关系！
+**女**: 希望有人弄坏你车上的刹车系统！
 
-**Tracey De Santa**: 我他妈不在乎！
+*（Michael 开始听音乐）*
 
-_（镜头切换到院子里的 Michael）_
+**妻**: 你知道我不希望…
 
-**Amanda De Santa**: 他是个流浪汉。
+**女**: 傻逼女人…
 
-**Tracey De Santa**: 你在逗我？
-
-**Amanda De Santa**: 他是丧家犬。
-
-**Tracey De Santa**: 他已经没有别的地方去了！
-
-**Amanda De Santa**: 我不在乎！
-
-**Tracey De Santa**: 老天啊！
-
-**Amanda De Santa**: 没错，听到没有？ 
-
-**Amanda De Santa**: 我不在乎！
-
-**Tracey De Santa**: 老天，你刚才说….
-
-**Amanda De Santa**: 闭上你的嘴！
-
-**Tracey De Santa**: 我他妈看到他了！
-
-**Amanda De Santa**: 我做什么跟你无关，不准说脏话！
-
-**Tracey De Santa**: 不公平！
-
-_（Michael 戴上耳机堵住争吵声）_
-
-**Amanda De Santa**: 我要把你爸叫来教训你一顿.
-
-**Tracey De Santa**: 希望有人弄坏你车上的刹车系统！
-
-_（Michael 开始听音乐）_
-
-**Amanda De Santa**: 你知道我不希望…
-
-**Tracey De Santa**: 傻逼女人…
-
-_（Michael 在躺椅上用 iFruit 手机听 Phil Collins 的歌曲 "I Don't Care Anymore"，Franklin 出场）_
+*（Michael 在躺椅上用 iFruit 手机听 Phil Collins 的歌曲 "I Don't Care Anymore"，Franklin 出场）*
 
 **M:** 你来做什么？
 

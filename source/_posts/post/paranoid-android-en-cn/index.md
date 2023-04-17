@@ -17,7 +17,7 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]Please could you stop the noise  
+Please could you stop the noise  
 I'm trying to get some rest  
 From all the unborn chicken voices in my head  
 What's that?  
@@ -53,13 +53,10 @@ The crackle of pigskin (Rain down)
 The dust and the screaming (Come on rain down)  
 The yuppies networking (On me)  
 The panic, the vomit (From a great height)  
-The panic, the vomit (From a great height)  
 God loves his childrean  
 God loves his children, yeah
 
-\[/one\_half\]
-
-\[one\_half\]请问你可以不要制造噪音吗  
+请问你可以不要制造噪音吗  
 我好不容易才能摆脱  
 脑中未出生小鸡的叫声  
 那是什么？  
@@ -99,9 +96,7 @@ God loves his children, yeah
 上帝爱他子民  
 上帝爱他子民，嗯
 
-\[/one\_half\]
-
-Paranoid Android, _Radiohead, OK Computer, 1997_
+Paranoid Android, *Radiohead, OK Computer, 1997*
 
 歌曲信息：
 

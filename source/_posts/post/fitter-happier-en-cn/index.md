@@ -17,7 +17,7 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]Fitter, happier. More productive.  
+Fitter, happier. More productive.  
 Comfortable  
 Not drinking too much  
 Regular exercise at the gym (3 days a week)  
@@ -61,9 +61,9 @@ That's driven into
 Frozen winter shit (the ability to laugh at weakness)  
 Calm  
 fitter, healthier and more productive  
-A pig in a cage on antibiotics\[/one\_half\]
+A pig in a cage on antibiotics
 
-\[one\_half padding="0 0 0 40px"\]健壮一点，开心一点。做更有价值的人。  
+健壮一点，开心一点。做更有价值的人。  
 舒适。  
 不要酗酒。  
 定期去健身房锻炼（一周三次）  
@@ -107,7 +107,7 @@ A pig in a cage on antibiotics\[/one\_half\]
 一坨冻硬的屎（嘲笑弱者的能力）  
 平静  
 健壮一点，健康一点，并做个有价值的人  
-笼子里一只打了抗生素的猪\[/one\_half\]
+笼子里一只打了抗生素的猪
 
 Fitter Happier, _Radiohead, OK Computer, 1997_
 

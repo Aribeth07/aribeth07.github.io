@@ -18,7 +18,7 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]The useless drag of another day  
+The useless drag of another day  
 The endless drags of a death rock boy  
 Mascara sure and lipstick lost  
 Glitter burned by restless thoughts  
@@ -57,9 +57,7 @@ then you're giving up
 'Cause in your sad machines  
 You'll forever stay  
 Burning up in speed  
-Lost inside the dreams, of teen machines\[/one\_half\]
-
-\[one\_half\]
+Lost inside the dreams, of teen machines
 
 又是一天的百无聊赖  
 一位死亡摇滚小子过不完的乏味日子  
@@ -102,13 +100,11 @@ Lost inside the dreams, of teen machines\[/one\_half\]
 迅速燃尽  
 在少年机器的美梦里迷失
 
-\[/one\_half\]
-
-Here Is No Why, _The Smashing Pumpkins, Mellon Collie and the Infinite Sadness, 1995_
+Here Is No Why, *The Smashing Pumpkins, Mellon Collie and the Infinite Sadness, 1995*
 
 歌曲信息：
 
 歌词很有九十年代式的朦胧感，字里行间透露出的忧郁很难处理成中文。  
 青少年往往要通过过火的行为、用超出别人预期的成绩，去证明自己的价值，去击败那个"忧郁之王"。悲伤机器的齿轮终会损毁，少年们终将老去，在证明他们能够触及那颗理想中的神秘之星的无尽的努力中燃尽所有激情。只要你现在的样子还是令你绝望和不快，你就将永远在少年机器的美梦中迷失。  
-Billy Corgan 对歌词的解释是"向 18 岁时那个急于引人注目的自己眨眼致意。" 在 2012 年再发行版 CD 的内页中他写道:"歌名挪用自我在首次核武器袭击周年纪念日读到的一篇文章。一位在核武下幸存的人审视那段历史时，用不标准的英语说'Here is no why'。我也审视着我童年记忆的混乱废墟，我在迷惘中感受到类似的失落。我想藏起部分悲伤，于是将那些想法都塞进了这个外表诱人、听不出高兴还是悲伤的水果馅饼中。在某些方面，这首歌与其他歌曲有点格格不入，它太伤感，太尖锐，把它趾高气扬的气势给削弱了。但就像它的作者'死亡摇滚小子'一样，它最明显的缺陷也是其挥之不去的魅力的一部分。"  
+Billy Corgan 对歌词的解释是"向 18 岁时那个急于引人注目的自己眨眼致意。" 在 2012 年再发行版 CD 的内页中他写道："歌名挪用自我在首次核武器袭击周年纪念日读到的一篇文章。一位在核武下幸存的人审视那段历史时，用不标准的英语说'Here is no why'。我也审视着我童年记忆的混乱废墟，我在迷惘中感受到类似的失落。我想藏起部分悲伤，于是将那些想法都塞进了这个外表诱人、听不出高兴还是悲伤的水果馅饼中。在某些方面，这首歌与其他歌曲有点格格不入，它太伤感，太尖锐，把它趾高气扬的气势给削弱了。但就像它的作者'死亡摇滚小子'一样，它最明显的缺陷也是其挥之不去的魅力的一部分。"  
 这首歌中某个片段，在我有限的阅历中算是最为惊艳的神来之笔。
