@@ -109,7 +109,7 @@ A pig in a cage on antibiotics
 健壮一点，健康一点，并做个有价值的人  
 笼子里一只打了抗生素的猪
 
-Fitter Happier, _Radiohead, OK Computer, 1997_
+Fitter Happier, *Radiohead, OK Computer, 1997*
 
 关于本曲：
 

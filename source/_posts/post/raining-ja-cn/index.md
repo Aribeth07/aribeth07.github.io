@@ -103,5 +103,5 @@ Raining, *Cocco, ShiKi-Jitsu （式日） Oringinal Soundtrack, 2000*
 
 有些歌曲就是非常适合做某部电影的片尾曲，这种适合不仅体现在歌词上，也体现在旋律上。  
 收录于 *クムイウタ* 专辑，发行时间是 1998 年。  
-对于电影，我觉得谈论它的最好方式是不去谈论它，我也一直在避免谈论庵野秀明的所有作品。如果你没看过电影，建议去看一遍，我们或许能够互相理解。字幕请去 [这里](http://www.zimuku.net/detail/56088.html) 或 [这里](http://www.opensubtitles.org/en/subtitles/6241750/shiki-jitsu-zh) 下载，是的，这字幕是我做的。  
+对于电影，我觉得谈论它的最好方式是不去谈论它，我也一直在避免谈论庵野秀明的所有作品。如果你没看过电影，建议去看一遍，我们或许能够互相理解。字幕请去 [这里](http://www.zimuku.pw/detail/56088.html) 或 [这里](http://www.opensubtitles.org/en/subtitles/6241750/shiki-jitsu-zh) 下载，是的，这字幕是我做的。  
 何时才能去一趟宇部呢

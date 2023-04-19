@@ -9,33 +9,33 @@ categories:
 L is for Leonard  
 N is for Natalie  
   
-**L**: 出事了？  
-**N**: 有人来了。  
+**L**: 出了什么事？  
+**N**: 有人来找我。  
 **L**: 谁？  
 **N**: 他自称 Dodd。  
 **L**: 他要干嘛？  
-**N**: 他要 Jimmy 和他的钱，他认为钱是被我拿走了。  
-**L**: 你有没有拿？  
+**N**: 他找 Jimmy，还要他的钱，他认为钱是被我拿走了。  
+**L**: 钱你拿了？  
 **N**: *（瞪了 Leonard 一眼）*没有。  
 **L**: 到底是怎么一回事？  
 **N**: 操。  
 *（Natalie 大力关上抽屉）*  
 **N**: 你他妈什么都不懂是不是？就他妈的当个一脸无辜的白痴是不是？(You don't have a fucking clue, do you? You're just blissfully ignorant, aren't ya?)  
-**L**: 我得了一种病。..  
-**N**: 我很清楚你的病 Leonard，可能比你自己都清楚，除了病你他妈还知道什么？  
+**L**: 我得了一种病…
+**N**: 对对我很清楚你的病 Leonard，可能比你自己都清楚，除了病你他妈还知道什么？  
 **L**: 发生什么事？  
 **N**: Jimmy 去见了一个叫 Teddy 的人，这人拿走了他一大笔钱后消失了，现在 Jimmy 的搭档觉得是我独吞了这笔钱。我都不清楚你认不认识这个 Teddy，或者跟他有多熟。  
 **L**: 我也不知道。  
-**N**: 别为他袒护。  
-**L**: 我没有。  
-**N**: 帮我一个忙  
-**L**: 怎么帮？  
-**N**: 帮我除掉 Dodd。  
-**L**: 什么？  
+**N**: 别袒护他。  
+**L**: 我可没。  
+**N**: 那你帮我做个事
+**L**: 帮什么？  
+**N**: 除掉 Dodd。  
+**L**: 哈？  
 **N**: 杀了他，我给你钱。  
-**L**: 你把我看成什么了？我不会为了钱去杀人。  
-**N**: 是吗？那会为了爱情去杀人？你会为了什么杀人？为了你老婆？  
-**L**: 这是两回事。(That's different.)  
+**L**: 你把我看成什么了？我不会为了钱去杀人。
+**N**: 是吗？那会为了爱情去杀人？你会为了什么杀人？为了你老婆？
+**L**: 这是两回事。(That's different.)
 **N**: 我觉得是一回事，反正不是我老婆。(Not to me. I wasn't fucking married to her.)  
 **L**: 嘿，别拿我老婆说事。  
 **N**: 我他妈想拿谁说事就拿谁说事。我想说什么就说什么，反正你会忘掉。就算我说你老婆是他妈的婊子我们还可以做朋友。  
@@ -56,8 +56,8 @@ N is for Natalie
 *（Leonard 捏住 Natalie 的两颊用力一甩）*  
 **N**: 我查过你的病，Leonard。你知道短期失忆的病因之一是什么吗？性病。也许你老婆的小穴被太多脏屌干过，把性病传给你，所以你才会变成现在这样傻逼。(I read about your condition, Leonard. You know what one of the causes of short-term memory loss is? Venereal disease. Maybe your cunt of a fucking wife sucked one too many diseased cocks and turned you into a fucking retard!)  
 *（Natalie 一边绕着 Leonard 走动，一边对他低语）*  
-**N**: 你这可悲的，可悲的怪胎。我他妈想说什么就说什么。.. 而你会忘得一干二净。我们还可以做好朋友。.. 甚至。.. 做情人。  
+**N**: 你这可悲的，可悲的怪胎。我他妈想说什么就说什么… 而你会忘得一干二净。我们还可以做好朋友… 甚至… 做情人。  
 *（Leonard 一个右勾拳打在 Natalie 左脸上，他的右手因击打而受伤，做出痛苦的表情）*  
-**L**: 我日。  
+**L**: 我日。
 *（Natalie 起身，对 Leonard 露出微笑）*  
 **N**: 我们过会儿见。

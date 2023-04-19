@@ -6,14 +6,14 @@
 title: Rain Down
 subtitle: 'Share. Create. Be yourself'
 description: 'Paranoid Android'
-keywords: here lies keywords
+keywords: 
 author: Selana
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://raindownonme.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

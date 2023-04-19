@@ -17,7 +17,7 @@ tags:
   - "英文"
 ---
 
-\[one\_half\]There's a gap in between  
+There's a gap in between  
 There's a gap where we meet  
 Where I end and you begin  
 And I'm sorry for us  
@@ -25,7 +25,6 @@ The dinosaurs roam the earth
 The sky turns green  
 Where I end and you begin
 
-I am up in the clouds  
 I am up in the clouds  
 And I can't and I can't come down  
 I can watch but not take part  
@@ -39,14 +38,12 @@ Like a house falling in the sea
 In the sea
 
 I will eat you alive, I will eat you alive  
-I will eat you alive, I will eat you alive  
-There'll be no more lies, there'll be no more lies  
 There'll be no more lies, there'll be no more lies  
   
 I will eat you alive, I will eat you alive  
-I will eat you alive\[/one\_half\]
+I will eat you alive
 
-\[one\_half\]这里 在这里。在我们两者之间  
+这里 在这里。在我们两者之间  
 我们相遇的地方有段空白  
 在那个我停下而你开始的地方  
 关于我们 我很遗憾  
@@ -54,7 +51,6 @@ I will eat you alive\[/one\_half\]
 天空转绿了  
 在那个我停下而你开始的地方
 
-我在云层之上  
 我在云层之上  
 我无法我无法。降落  
 我只能旁观无法干预  
@@ -68,14 +64,13 @@ I will eat you alive\[/one\_half\]
 坠入海中
 
 我将活活吃了你 我将活活吃了你  
-我将活活吃了你 我将活活吃了你  
 如此 谎言便将不复存在。不复存在  
 如此 谎言便将不复存在。不复存在
 
 我将活活吃了你 我将活活吃了你  
-我将活活吃了你\[/one\_half\]
+我将活活吃了你
 
-Where I End and You Begin, _Radiohead, Hail to the Thief, 2003_
+Where I End and You Begin, *Radiohead, Hail to the Thief, 2003*
 
 歌曲信息：
 
