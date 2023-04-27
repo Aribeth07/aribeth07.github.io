@@ -59,7 +59,7 @@ Pyramid Song, *Radiohead, Amnesiac, 2001*
 
 这首歌曲的节奏极不寻常，有说法称它是一种罕见的 8/8 拍（3+3+2）变种，带有摇摆八分音符；还有说法称它是 16/8 拍（3+3+4+3+3），其音符长度转化为几何图形后加以组合，能够构成一个金字塔形，这也是歌曲名字的来源：
 
-{% asset_img pyramid_song.jpg %}
+{% asset_img pyramid.jpg %}
 
 [Source](https://www.reddit.com/r/radiohead/comments/1himem/what_time_signature_is_the_pyramid_song_actually/cauqv20)
 
