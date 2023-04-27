@@ -9,7 +9,7 @@ Those who know me well may realise that this is my fifth child, and it's highly 
 
 I create this child. With detailed tutorials and tool packs piling on the Internet, technical barriers are much easier to break these days. Should you try the same thing, I would suggest to get an oversee Virtual Private Server and google the rest of it - as you may be told or you've already figured out by yourself, you should NOT use any search engines other than google.
 
-If you want to post comments you don't have to give away your phone number, because you are not in CN LAN. Yes, I bring that up because I despise phone authentication.
+If you want to post comments you don't have to give away your phone number, because you are not in CN LAN. Yes, I bring that up because I despise phone number authentication.
 
 If you want to DDos this site for whatever reason hope you have mercy, as it really accomplishes nothing.
 
