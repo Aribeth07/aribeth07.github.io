@@ -23,6 +23,6 @@ TV Series 只录入二部，排在最后。
 
 文章约包含 31000 个中文字符。目录已编制，点击目录标题可跳转至相应条目。所有影片排名不分先后。
 
-点击[这里](https://raindownon.me/films-trivia)可以返回 Films Trivia 页面
+[点击这里](https://raindownonme.top/films-trivia/) 可以返回 Films Trivia 页面。
 
 该文每十二（12）个月更新至少一部新影片之 Trivia 的概率不高于 77.777%。
