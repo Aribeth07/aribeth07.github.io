@@ -37,6 +37,8 @@ A hidden diamond you cannot find
 A secret star that cannot shine  
 over to you
 
+<!-- more -->
+
 May the king of gloom  
 Be forever doomed
 

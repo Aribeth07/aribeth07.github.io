@@ -32,6 +32,8 @@ Where I end and where you start
 Where you, you left me alone  
 You left me alone
 
+<!-- more -->
+
 X will mark the place  
 Like the parting of the waves  
 Like a house falling in the sea  

@@ -31,6 +31,8 @@ We're not the same, we're different tonight
 Tonight, so bright  
 Tonight
 
+<!-- more -->
+
 And you know you're never sure  
 But you're sure you could be right  
 If you held yourself up to the light  

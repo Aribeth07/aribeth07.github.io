@@ -32,6 +32,8 @@ What's that?
 What's that?  
 (I may, be paranoid, but, not an, android)
 
+<!-- more -->
+
 Ambition makes you look pretty ugly  
 Kicking, squealing Gucci little piggy  
 You don't remember. You don't remember  

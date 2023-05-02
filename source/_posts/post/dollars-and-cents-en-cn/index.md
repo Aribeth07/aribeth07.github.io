@@ -37,6 +37,8 @@ Why don't you quiet down?
 And maybe wander the children's land)  
 Quiet down (Yeah, and there, there we can free)
 
+<!-- more -->
+
 You don't live in a business world and  
 You never go out and you never stay  
 We won our goals in a liberal world  

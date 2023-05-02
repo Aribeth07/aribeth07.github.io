@@ -31,6 +31,8 @@ And I thought I wouldn’t have to be
 With you  
 Something new
 
+<!-- more -->
+
 Sometimes I breathe you in  
 And I know you know  
 And sometimes you take a swim  

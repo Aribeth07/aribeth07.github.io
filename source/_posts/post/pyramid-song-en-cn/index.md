@@ -26,6 +26,8 @@ All my past and futures
 And we all went to heaven in a little row boat  
 There was nothing to fear and nothing to doubt
 
+<!-- more -->
+
 I jumped into the river  
 Black-eyed angels swam with me  
 A moon full of stars and astral cars  

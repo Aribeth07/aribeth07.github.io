@@ -28,6 +28,7 @@ A patient, better driver.
 A safer car (baby smiling in back seat)  
 Sleeping well (no bad dreams)  
 No paranoia  
+<!-- more -->
 Careful to all animals  
 (never washing spiders down the plughole)  
 Keep in contact with old friends (enjoy a drink now and then)  

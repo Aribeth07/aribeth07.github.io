@@ -31,6 +31,8 @@ Just trash, me and you
 It's in everything we do  
 It's in everything we do
 
+<!-- more -->
+
 Oh maybe, maybe it's the things we say  
 The words we've heard and the music we play  
 Maybe it's our cheapness  

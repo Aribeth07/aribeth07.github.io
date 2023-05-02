@@ -27,6 +27,8 @@ And we have crashed her party
 This is what you'll get  
 When you mess with us
 
+<!-- more -->
+
 Karma police  
 I've given all I can, it's not enough  
 I've given all I can  

@@ -31,6 +31,8 @@ Hey, but I don't care cause sometimes
 I said sometimes I hear my voice, and it's been  
 Here, silent all these years
 
+<!-- more -->
+
 So you found a girl who thinks really deep thoughts  
 What's so amazing about really deep thoughts?  
 Boy, you best pray that I bleed real soon  
