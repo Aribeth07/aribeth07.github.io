@@ -20,6 +20,7 @@ N is for Natalie
 **L**: 到底是怎么一回事？  
 **N**: 操。  
 *（Natalie 大力关上抽屉）*  
+<!-- more -->
 **N**: 你他妈什么都不懂是不是？就他妈的当个一脸无辜的白痴是不是？(You don't have a fucking clue, do you? You're just blissfully ignorant, aren't ya?)  
 **L**: 我得了一种病…
 **N**: 对对我很清楚你的病 Leonard，可能比你自己都清楚，除了病你他妈还知道什么？  
