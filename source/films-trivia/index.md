@@ -30,7 +30,6 @@ Evan 的烟头烫痕看起来像曼德博集合，该集合的图像一般被当
 本片还有一个剧场放映版结局：Evan 穿越回小时候遇见 Kayleigh 的那天，说他讨厌她和她家人，并威胁称如果她再接近自己，他就杀她全家。
 
 {% endcollapsecard %}
----
 
 ### 事件记录（Chronicle, Josh Trank, 2012）
 
@@ -47,7 +46,6 @@ Evan 的烟头烫痕看起来像曼德博集合，该集合的图像一般被当
 剧组本想让 Andrew 像蜘蛛一样伸出八条肢体，然后手撕他爸，但为了保住本片 PG-13 的分级，也为了展现另一主角 Matt 的节操，该场景遭到移除。
 
 {% endcollapsecard %}
----
 
 ### 冻（Frozen, Adam Green, 2010）
 
@@ -68,7 +66,6 @@ Evan 的烟头烫痕看起来像曼德博集合，该集合的图像一般被当
 男二号被狼群包围的那场戏没有用替身。有只狼靠演员太近，驯兽师不得不将其拉走，拍摄也遭到中断。你可以看到片中一只黑狼靠近男二号的脸部，演员将脸转向别处，他实际上是在向剧组人员求助。
 
 {% endcollapsecard %}
----
 
 ### 黑暗中的舞者（Dancer in the Dark, Lars von Trier, 2000）
 
@@ -139,7 +136,6 @@ Hugh 在 iPhone 上计算不同可能性的数量所用算式是 (6^8)\*3=503884
 女主角和导演最喜欢的一场戏是 Em 检查车辆后遇到「另一个」Kevin。
 
 {% endcollapsecard %}
----
 
 ### 杀手阿一（殺し屋１，三池崇史，2001）
 
@@ -156,7 +152,6 @@ Hugh 在 iPhone 上计算不同可能性的数量所用算式是 (6^8)\*3=503884
 尽管几乎所有黑社会成员都带着枪，整部影片只开了两枪，且没有人因此被杀。
 
 {% endcollapsecard %}
----
 
 ### 试镜（オーディション，三池崇史，1999）
 
@@ -171,7 +166,6 @@ My Chemical Romance 乐队首支单曲"Honey, This Mirror Isn't Big Enough for t
 装在一只狗碗里拿去喂给被囚禁者的东西是女主麻美的呕吐物，事实上，这些都是饰演麻美的演员椎名英姫呕出来的。导演声称她演得很投入，坚持要这么做。
 
 {% endcollapsecard %}
----
 
 ### 布莱尔女巫项目（The Blair Witch Project, Daniel Myrick & Eduardo Sánchez, 1999）
 
@@ -222,7 +216,6 @@ Heather 和 Mike 不知道 Josh 在影片结尾会失踪（原定是 Mike 失踪
 影片结尾处 Heather 找到的牙齿和头发是真实的人类牙齿和头发，牙是导演从他牙医那里弄来的，头发是 Josh 本人的头发。
 
 {% endcollapsecard %}
----
 
 ### 食人燔祭（Cannibal Holocaust, Ruggero Deodato, 1980）
 
@@ -311,7 +304,6 @@ Uma Thurman 的角色片中大部分时间是光脚的，拍摄跳舞场景时�
 Jules 说的「Marcelles Wallace 不想被他老婆以外的任何人操。」给后面的情节埋了伏笔。Marcelles 也亲自示范了打破这一规则的人会有怎样的下场。
 
 {% endcollapsecard %}
----
 
 ### 十二宫杀手（Zodiac, David Fincher, 2007）
 
@@ -406,7 +398,6 @@ Quentin Tarantino 最爱的战争片，之一。
 据称，Captain Miller 用一把柯尔特 1911 射击正在开来的坦克的场景，灵感来自动视游戏「使命召唤」中多人模式的一个技能"Last Man Standing"，点了该技能后游戏人物即使受到致命伤害，也能在临死前的有限时间内坐起来，用这一武器射击敌人。
 
 {% endcollapsecard %}
----
 
 ### 记忆碎片（Memento, Christopher Nolan, 2000）
 
@@ -431,7 +422,6 @@ Leonard 的许多独特画外音都由扮演者 Guy Pearce 即兴创作。
 拍摄 Leonad 杀 Jimmy 的戏之前，Jimmy 的扮演者让 Guy Pearce 真打，Pearce 是一名前健美运动员（拍摄本片前重达 104.3 公斤），他同意了这一请求，将 Jimmy 的扮演者打的全身淤青。
 
 {% endcollapsecard %}
----
 
 ### 忧郁症（Melancholia, Lars von Trier, 2011）
 
@@ -508,7 +498,6 @@ Malcolm McDowell 在拍摄过程中与导演关系密切，但导演没有兴趣
 本片出现过许多对阳具的暗喻或阳具形物体：海报中的女人两腿之间的蛇，唱片店中女孩拿的冰棍，Alex 手杖末端的形状，Alex 杀「猫女郎」所用的物体。
 
 {% endcollapsecard %}
----
 
 ### 法戈（Fargo, Joel Coen & Ethan Coen, 1996）
 
@@ -547,7 +536,6 @@ Carl 说的台词 "just a little of the ol' in-and-out" 是在致敬「发条橙
 "fuck" 一词及其变体出现了 75 次，多数由 Carl 说出。单在 Wade 被杀的场景中他就说了 10 次。
 
 {% endcollapsecard %}
----
 
 ### 无名之辈（Mr. Nobody, Jaco Van Dormael, 2009）
 
@@ -564,7 +552,6 @@ Carl 说的台词 "just a little of the ol' in-and-out" 是在致敬「发条橙
 片中某个角色用一个罕见的国际象棋术语解释本片：zugzwang。这是个德语词，象棋中可以译为「强制被动」，描述 "a situation found in chess and other games wherein one player is put at a disadvantage because they must make a move when they would prefer to pass and not move."解释如下：在一局国际象棋中的某一时刻，A 走完一步后，轮到 B 走，这时 B 发现不论他走哪步棋，都会让局面变得对他不利，他此时的最优解就是一步都不走，但规则不允许这么做，因为玩国际象棋的基本规则之一就是 A 走一步 B 走一步，所以 B 要么认输，要么只能硬着头皮走下去并让局势朝着不利于自己的方向发展。
 
 {% endcollapsecard %}
----
 
 ### 两杆大烟枪（Lock, Stock and Two Smoking Barrels, Guy Ritchie, 1998）
 
@@ -611,7 +598,6 @@ Stephen King 写原著时的灵感来源是他在缅因州的一个市场中看�
 影片结尾处，导演原本想加一个场景：一辆卡车载着商店里所有人驶过主角，意味着他们都被安全救出，也使得 David 意识到他根本不该带着那些人离开商店。不幸的是当时其他演员和大多数群众演员都已经拍完片子走人了，导演只得放弃这个点子。
 
 {% endcollapsecard %}
----
 
 ### 电话亭（Phone Booth, Joel Schumacher, 2002）
 
@@ -764,7 +750,6 @@ Trinity 联系 Neo 时，Neo 听的歌是 Massive Attack 的「Dissolved Girl」
 三部曲中，Neo 只在本片中使用枪械。
 
 {% endcollapsecard %}
----
 
 ### 在我入睡前（Before I Go to Sleep, Rowan Joffe, 2014）
 
@@ -783,7 +768,6 @@ Trinity 联系 Neo 时，Neo 听的歌是 Massive Attack 的「Dissolved Girl」
 本片前半部分，Christine 和 Ben 家中固定电话铃声是美国式的响一声，而非英国式的响两声。
 
 {% endcollapsecard %}
----
 
 ### 闪灵（The Shinning, Stanley Kubrick, 1980）
 
@@ -836,7 +820,6 @@ Jack 写的只包含一个句子（「只工作不玩耍让 Jack 变得迟钝」
 Steven Spielberg 赞扬了 Wendy 发现 Jack 的「小说」并与他对峙的场景，称其为一个很好的「反直觉执导」的例子。Spielberg 指出，拍这出戏的常规方式是在观众和 Wendy 的注意力都放在手稿上时 Jack 突然出现在 Wendy 背后，相反地，导演突然将镜头从 Wendy 身上切出，转至一个在柱子后方从远距离「注视」着 Wendy 的视角，让观众为 Jack 入场作准备，消除了他的出现带来的惊吓。他说这种不寻常的拍摄和剪辑方法有两个好处：1. 让接下来的一系列镜头保持紧张状态，不留喘息时间。2. 暂时回避惊吓，将全片最大的惊吓留给了谋杀 Hallorann 的场景——在那个场景 Jack 的突然出现才是为了吓人。
 
 {% endcollapsecard %}
----
 
 ### 锯（Saw, James Wan, 2004）
 
@@ -871,7 +854,6 @@ Leigh Whannell 在本片开头浴缸里的戏没有用替身。当时他潜入�
 这一系列影片中，这是唯一一部主角没有被困在陷阱里，而是被囚禁起来的电影。
 
 {% endcollapsecard %}
----
 
 ### 老无所依（No Country for Old Men, Ethan Coen & Joel Coen, 2007）
 
@@ -898,7 +880,6 @@ Moss 穿过墨西哥边境，因伤躺地上时，一支流浪乐队在对他唱
 三名主角 Moss，Bell，Chigurh，都没同时出现在同一屏幕内。
 
 {% endcollapsecard %}
----
 
 ### 反基督（Antichrist, Lars von Trier, 2009）
 
@@ -977,7 +958,6 @@ Lou 发现地下室有搏击俱乐部成员后打了 Tyler 肚子一拳，这时
 两名主角出车祸之后，Tyler 将叙述者从驾驶室中拉出来。
 
 {% endcollapsecard %}
----
 
 ### 我们要谈谈 Kevin（We Need to Talk About Kevin, Lynne Ramsay, 2011）
 
@@ -996,7 +976,6 @@ Lou 发现地下室有搏击俱乐部成员后打了 Tyler 肚子一拳，这时
 原著中，Kevin 的凶器是弩，受害者是他有意挑选的；影片中，凶器是长弓。
 
 {% endcollapsecard %}
----
 
 ### 母亲！（Mother!, Darren Aronofsky, 2017）
 
@@ -1031,7 +1010,6 @@ Jennifer Lawrence 在读过剧本后浑身发抖，将手上的稿子扔到了�
 骚乱中出现的一些咏唱词，真实存在于埃及革命中。
 
 {% endcollapsecard %}
----
 
 ### 社交网络（The Social Network, David Fincher, 2010）
 
@@ -1080,7 +1058,6 @@ Facebook 用户量达到一百万、Sean Parker 下令刷新用户数时，屏�
 影片开头的分手戏，剧本有八页，共拍了 99 个镜头。
 
 {% endcollapsecard %}
----
 
 ### Wind River（Wind River, Taylor Sheridan, 2017）
 
@@ -1101,7 +1078,6 @@ Wind River 真实存在，是美国第七大印第安保留区。
 影片结尾处是 Eric 与孕妇和儿童的决胜局，也就是说孕妇还活着时玩家数还剩四人。 这或许能解释结局场景里 Eric 靠近幸存者团体时，为什么会看到存活的大多是儿童——他们都意识到孕妇算两条命，而胎死腹中已不可避免，于是选择让儿童活下（假设他们都面临着与我们观察的群体相似的窘境）。这也使得「让孕妇活到最后」的决定变得毫无意义。
 
 {% endcollapsecard %}
----
 
 ### 邀请（The Invitation, Karyn Kusama, 2015）
 
@@ -1168,7 +1144,6 @@ Turing 本人毫不在意个人形象，不会像影片中那样穿着得体。
 影片结尾处，Turing 在曼彻斯特研究自己的计算机。历史上，虽然 Turing 本人在国家物理实验室有一个名为 ACE（自动计算引擎）的项目，但由于缺乏进展被他放弃。 在看到曼彻斯特大学演示了第一台存储程序计算机之后，Turing 就搬到了曼彻斯特，因为他主要的兴趣在于编程，而不是构建。
 
 {% endcollapsecard %}
----
 
 ### 愈（CURE，黒沢清，1997）
 
@@ -1185,7 +1160,6 @@ Martin Scorsese 称本片为导演创作的「最为恐怖之影片」。
 影片时间 1 小时 29 分左右，在被附身者的录像带中可以看到反派角色間宮的影子，而这盘录像带却在 19 世纪末拍摄的，这就意味着影片中某些角色的猜测是对的，間宮确实是恶魔。必须说明的是，导演对此从未做出过解释。
 
 {% endcollapsecard %}
----
 
 ### **盛夏（Midsommar, Ari Aster, 2019****）**
 
@@ -1240,7 +1214,6 @@ Connie 的尸体在被推入神龛内时，显得有些潮湿、肿胀。这是�
 Christian 在片中准备写一篇关于 Hårga 异教的论文。讽刺的是，他在最终仪式中被杀，成为被异教徒杀死的基督徒（他的名字在英语中即为基督徒的意思）。
 
 {% endcollapsecard %}
----
 
 ### 圣鹿之死（The Killing of a Sacred Deer, Yorgos Lanthimos, 2017）
 
@@ -1269,7 +1242,6 @@ Bob 刚开始生病时，镜头摇向他的过程中可以看到他头上有一�
 片中多次出现的餐厅名为「冠蓝鸦餐厅」（Blue Jay restaurant）。美国民间传说中，冠蓝鸦被视为魔鬼的仆人。
 
 {% endcollapsecard %}
----
 
 ### 大象席地而坐（大象席地而坐，胡波，2018）
 
@@ -1284,7 +1256,6 @@ Bob 刚开始生病时，镜头摇向他的过程中可以看到他头上有一�
 导演希望以固定镜头的方式拍摄全片，但由于预算不足，改用手持摄像机拍摄所有场景。
 
 全片在 2017 年 3 月和 4 月拍摄完成，只用了 25 天的时间。根据章宇在 TIFF 的问答，他们每天只在清晨和傍晚太阳落山前这 3 个小时左右时间拍摄。这是因为导演想在一个黑暗的环境中拍摄整部影片，以便将故事和画面融合在一起。
----
 
 ### 东京物语（東京物語，小津安二郎，1953）
 
@@ -1299,7 +1270,6 @@ Bob 刚开始生病时，镜头摇向他的过程中可以看到他头上有一�
 影片中出现的 banner 由导演亲手绘制。
 
 截至 2020 年，乘坐火车从尾道市到东京只需不到四个半小时。
----
 
 ### Akira（アキラ，大友克洋，1988）
 
@@ -1336,7 +1306,6 @@ Akira 在日语中的意思是「明亮、聪明、清晰」。
 本片直接按照 1.85:1 的影院比例制作动画，而非当时更普遍的 1.37:1 比例，这使得动画师们能够集中精力加入更多影院中可见的细节。
 
 金田和鉄雄的配音演员岩田光央和佐佐木望是同龄人。两人都出生于 1967 年，相差约 6 个月。
----
 
 ### 真探（True Detective, Nic Pizzolatto, 2014）
 
@@ -1365,7 +1334,6 @@ Episode 5（众生的神秘命运）中 Marty 穿过一件印着 Pink Floyd 乐�
 Nic Pizzolatto 准备的另一个结局是两位主角没能逃离迷宫并就此失踪。
 
 {% endcollapsecard %}
----
 
 ### 黑镜（Black Mirror, Charlie Brooker, 2011-2013）
 
@@ -1388,4 +1356,3 @@ Waldo 一词在机器人学中就是指让一台机器或计算机图像能够�
 第二季 Episode 4（白色圣诞节）中，当主角第一次注意到墙上的钟时，钟的分针指向 3 的位置，但在紧接着一个特写中，时间又变了，这明显是有意安排的。
 
 {% endcollapsecard %}
----
