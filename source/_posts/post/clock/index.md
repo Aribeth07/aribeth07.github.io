@@ -2,6 +2,7 @@
 title: "Clock"
 date: "2021-05-25"
 categories: 
+  - "all-posts"
   - "misc"
 ---
 

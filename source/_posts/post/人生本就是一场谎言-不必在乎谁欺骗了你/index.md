@@ -1,6 +1,6 @@
 ---
 title: 人生本就是一场谎言 不必在乎谁欺骗了你
-date: 2023-12-16 15:19:21
+date: "2023-12-16"
 categories: 
   - "all-posts"
   - "misc"
