@@ -9,3 +9,5 @@ categories:
 What need is there to weep over parts of life, when the whole of it calls for tears.
 
 What makes earth feel like Hell is our expectation that it should feel like Heaven. Earth is earth. Dead is dead. You’ll find out for yourself soon enough. It won’t help the situation for you to get all upset.
+
+If time is what causes heartache, space is what that pain yeilds, and where it stays.
